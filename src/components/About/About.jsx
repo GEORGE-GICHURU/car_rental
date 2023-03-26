@@ -1,5 +1,5 @@
 import AboutCarts from "./AboutCarts";
-import TitleRed from "../../images/who-we-are/title-bg.svg";
+import TitleRed from "../../images/who-we-are/title-bg (2).svg";
 import TrainersIcon from "../../images/who-we-are/weightlifter.png";
 import ModernIcon from "../../images/who-we-are/equpments.png";
 import LiftIcon from "../../images/who-we-are/gym.png";

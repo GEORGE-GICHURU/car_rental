@@ -1,11 +1,8 @@
-
+import About from "./components/About/About";
 
 function App() {
   return (
-    <h1>
-      My gym app
-      
-    </h1>
+    <About />
   );
 }
 
