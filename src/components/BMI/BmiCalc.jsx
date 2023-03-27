@@ -70,7 +70,7 @@ function BmiCalc() {
                 type="submit"
                 className="text-[15px] uppercase font-bold mt-10 bg-[#323232] w-[15rem] h-[5rem] hover:bg-[#FF0336]"
               >
-                Calculate
+                Calculate BMI
               </button>
             </div>
           </div>
