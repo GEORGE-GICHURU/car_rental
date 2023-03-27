@@ -11,6 +11,7 @@ import Pricing from "../components/Pricing/Pricing";
 import Testimonials from "../components/Testimonials/Testimonials";
 import Trainers from "../components/Trainers/Trainers";
 
+
 function Home() {
   return (
     <>

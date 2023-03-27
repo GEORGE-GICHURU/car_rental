@@ -1,4 +1,4 @@
-import TitleRed from "../../images/who-we-are/title-bg.svg";
+import TitleRed from "../../images/who-we-are/title-bg (2).svg";
 import MainButton from "../MainButton";
 
 function Featured() {

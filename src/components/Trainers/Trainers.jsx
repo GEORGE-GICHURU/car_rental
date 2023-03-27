@@ -1,5 +1,5 @@
 import TitleRed from "../../images/who-we-are/title-bg (2).svg";
-import TrainerBox from "./TrainerBox";
+import TrainerBox from "./TrainersBox";
 
 function Trainers() {
   return (
